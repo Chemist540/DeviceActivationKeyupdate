@@ -1,0 +1,2 @@
+# DeviceActivationKeyupdate
+key.json
